@@ -6,3 +6,8 @@
 ###### Header 6
 Proves de headers
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Codi
+``` javascript
+var myVar = "Hello, world!";
+```
